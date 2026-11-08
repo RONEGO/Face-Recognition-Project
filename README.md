@@ -46,7 +46,7 @@
 
 ## EDA
 
-Откройте `eda/EDA.ipynb` и выполните ячейки. Готовая таблица — `data/celeba.csv`, 16 фотографий для примеров — в `data/sample_aligned/`. Данные хранятся локально и не добавляются в Git.
+Откройте `eda/EDA.ipynb` и выполните ячейки. Готовая таблица — `data/celeba.csv`, 16 фотографий для примеров — в `data/sample_aligned/`. Данные включены в репозиторий.
 
 CSV подготовлена из [разметки Google Drive](https://drive.google.com/drive/folders/0B7EVK8r0v71pOC0wOVZlQnFfaGs?resourcekey=0-pEjrQoTrlbjZJO2UL8K_WQ).
 
