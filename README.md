@@ -51,3 +51,5 @@
 CSV подготовлена из [разметки Google Drive](https://drive.google.com/drive/folders/0B7EVK8r0v71pOC0wOVZlQnFfaGs?resourcekey=0-pEjrQoTrlbjZJO2UL8K_WQ).
 
 Зависимости: `pip install -r requirements.txt`.
+
+Практическая ценность проекта: [PDF](PRACTICAL_VALUE.pdf).
